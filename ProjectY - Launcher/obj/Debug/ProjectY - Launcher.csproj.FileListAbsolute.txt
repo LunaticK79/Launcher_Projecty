@@ -1,0 +1,13 @@
+C:\Users\Ricardo\Desktop\project y\launcher\handmade\ProjectY - Launcher\ProjectY - Launcher\bin\Debug\ProjectY - Launcher.exe.config
+C:\Users\Ricardo\Desktop\project y\launcher\handmade\ProjectY - Launcher\ProjectY - Launcher\bin\Debug\ProjectY - Launcher.exe
+C:\Users\Ricardo\Desktop\project y\launcher\handmade\ProjectY - Launcher\ProjectY - Launcher\bin\Debug\ProjectY - Launcher.pdb
+C:\Users\Ricardo\Desktop\project y\launcher\handmade\ProjectY - Launcher\ProjectY - Launcher\obj\Debug\ProjectY - Launcher.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\project y\launcher\handmade\ProjectY - Launcher\ProjectY - Launcher\obj\Debug\ProjectY___Launcher.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\project y\launcher\handmade\ProjectY - Launcher\ProjectY - Launcher\obj\Debug\ProjectY - Launcher.csproj.GenerateResource.cache
+C:\Users\Ricardo\Desktop\project y\launcher\handmade\ProjectY - Launcher\ProjectY - Launcher\obj\Debug\ProjectY - Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\project y\launcher\handmade\ProjectY - Launcher\ProjectY - Launcher\obj\Debug\ProjectY - Launcher.exe
+C:\Users\Ricardo\Desktop\project y\launcher\handmade\ProjectY - Launcher\ProjectY - Launcher\obj\Debug\ProjectY - Launcher.pdb
+C:\Users\Ricardo\Desktop\project y\launcher\handmade\ProjectY - Launcher\ProjectY - Launcher\bin\Debug\pt\ProjectY - Launcher.resources.dll
+C:\Users\Ricardo\Desktop\project y\launcher\handmade\ProjectY - Launcher\ProjectY - Launcher\obj\Debug\ProjectY___Launcher.AlterEGO.resources
+C:\Users\Ricardo\Desktop\project y\launcher\handmade\ProjectY - Launcher\ProjectY - Launcher\obj\Debug\ProjectY___Launcher.AlterEGO.pt.resources
+C:\Users\Ricardo\Desktop\project y\launcher\handmade\ProjectY - Launcher\ProjectY - Launcher\obj\Debug\pt\ProjectY - Launcher.resources.dll
